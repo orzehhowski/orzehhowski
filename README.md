@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @orzehhowski
-- 🌱 I’m currently learning web dev and studying IT on PUT Poznan
+- 🌱 I'm learning web dev and studying IT on PUT Poznan
 
 <!---
 orzehhowski/orzehhowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
